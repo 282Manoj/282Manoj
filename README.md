@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 
 ### About Me
+
+I love to learn new technology , currently I am a student as masai school. I want to work as software developer in good company.
+
+### What i do for fun?
+ - I used to play volleyball.
+ - running
