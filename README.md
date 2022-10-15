@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on portfolio website.
 - 🌱 I’m currently learning Node js
-- 💬 Ask me about ...
 - 📫 How to reach me twiiter-@aarushroy282.
 
 
